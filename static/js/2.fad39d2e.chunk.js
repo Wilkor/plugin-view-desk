@@ -1,1 +1,0 @@
-(this["webpackJsonpblip-plugin-example"]=this["webpackJsonpblip-plugin-example"]||[]).push([[2],{35:function(p,i){}}]);
